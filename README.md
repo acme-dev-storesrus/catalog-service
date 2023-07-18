@@ -10,6 +10,7 @@ A vulnerable application made using node.js, express server and ejs template eng
 git clone https://github.com/4auvar/VulnNodeApp.git
 ```
 
+
 ## Application setup:
 - Install the latest node.js version with npm.
 - Open terminal/command prompt and navigate to the location of downloaded/cloned repository.
